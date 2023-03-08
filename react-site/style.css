@@ -7,3 +7,7 @@
     display: flex;
     list-style: none;
 }
+
+.nav-items > li {
+    padding: 10px;
+}
