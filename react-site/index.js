@@ -1,12 +1,12 @@
 function Header() {
     return (
     <header>
-            <nav>
+            <nav className='nav'>
                 <img src='./logo-react-icon.png' alt="logo" width='40px' />
-                <ul>
+                <ul className='nav-items'>
                     <li>Pricing</li>
                     <li>About</li>
-                    <li>Contact</li>
+                    <li>Contact </li>
                 </ul>
             </nav>
    </header>
